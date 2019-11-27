@@ -13,5 +13,5 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/olekukonko/tablewriter v0.0.1
 	github.com/pkg/errors v0.8.1
-	golang.org/x/tools v0.0.0-20190816200558-6889da9d5479
+	golang.org/x/tools v0.0.0-20191127154143-99399511c176
 )
